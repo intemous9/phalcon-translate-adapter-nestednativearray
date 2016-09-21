@@ -1,0 +1,15 @@
+{
+    "name": "muroi/phalcon-translate-adapter-nestednativearray",
+    "type": "library",
+    "description": "NestedNativeArray adapter for Translate.",
+    "keywords": [ "phalcon" ],
+    "homepage": "https://github.com/intemous9/phalcon-translate-adapter-nestednativearray",
+    "license": "MIT",
+    "authors": [
+        { "name":"T.Muroi", "email":"intemous9@gmail.com" }
+    ],
+    "autoload": {
+        "psr-0": { "Muroi\\Phalcon\\Translate\\Adapter\\": "" }
+    },
+    "target-dir": "Muroi/Phalcon/Translate/Adapter"
+}
